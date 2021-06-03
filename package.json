@@ -12,7 +12,7 @@
     },
     "scripts": {
         "bootstrap": "lerna bootstrap --use-workspaces",
-        "modulix": "jiti ./packages/modulix-cli/bin/index.js"
+        "modulix": "./packages/modulix-cli/bin/index.js"
     },
     "devDependencies": {
         "jiti": "^1.10.1",
