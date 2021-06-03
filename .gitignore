@@ -1,0 +1,10 @@
+.env
+dist
+build
+.nuxt
+node_modules
+temp
+tmp
+*.log
+.heroku
+yarn.lock

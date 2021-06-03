@@ -1,0 +1,8 @@
+{
+    "name": "modulix-cli",
+    "version": "0.0.0",
+    "main": "index.js",
+    "bin": {
+        "modulix-cli": "bin/index.js"
+    }
+}
